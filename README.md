@@ -2,7 +2,7 @@
 
 ![Chinese Text to Speech plugin icon](.claude-plugin/icon.png)
 
-Version 1.2.2. A Claude plugin for Mandarin text to speech, Chinese pronunciation practice and downloadable MP3 audio. Generate speech directly in Claude, or choose the companion tool that fits your workflow.
+Version 1.2.3. A Claude plugin for Mandarin text to speech, Chinese pronunciation practice and downloadable MP3 audio. Generate speech directly in Claude, or choose the companion tool that fits your workflow.
 
 - [Open the online Chinese reader](https://www.uranbekanarbaev.dev/?utm_source=claude_chinese_tts_plugin) — edit text, follow pinyin and prepare your next MP3.
 - [Get the companion Chrome extension](https://chromewebstore.google.com/detail/kfoonobmdlloonajhikajicnohljhdnk?utm_source=claude_chinese_tts_plugin) — open its Chrome Web Store listing and review features, permissions and installation.
@@ -66,6 +66,8 @@ Production MCP initialization, tool discovery, both voice generations and MP3 HT
 Website CTAs use one parameter only: utm_source=claude_chinese_tts_plugin. No client identifier, source text or additional campaign parameters are included. Source attribution on the website does not measure Claude installations.
 
 ## Repository contents and support
+
+The plugin files in this repository are available under the [MIT License](LICENSE). The hosted speech service, its usage quotas and third-party services remain subject to their separate terms; this license does not grant unlimited service access.
 
 This repository contains the Claude plugin manifest, a remote MCP connection, one skill and the plugin icon. It does not contain speech-provider credentials, production server configuration or generated user audio.
 

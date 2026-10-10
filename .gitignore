@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.sqlite*
+*.db
+*.mp3
+*.zip
+__pycache__/
+node_modules/

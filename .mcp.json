@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chinese-text-to-speech": {
+      "type": "http",
+      "url": "https://api-chinese-tts.hsk-tutor.com/mcp"
+    }
+  }
+}

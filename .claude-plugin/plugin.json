@@ -1,0 +1,15 @@
+{
+  "name": "chinese-text-to-speech",
+  "displayName": "Chinese Text to Speech",
+  "version": "1.2.2",
+  "description": "Chinese text to speech in Claude: generate Mandarin and mixed English MP3 audio with male or female voices and adjustable speed. Explore the online reader and companion Chrome extension.",
+  "author": {"name": "Uranbek Anarbaev", "url": "https://www.uranbekanarbaev.dev/"},
+  "homepage": "https://www.uranbekanarbaev.dev/?utm_source=claude_chinese_tts_plugin",
+  "repository": "https://github.com/uranbekanarbaev/chinese-text-to-speech-claude-plugin",
+  "documentationUrl": "https://www.uranbekanarbaev.dev/claude-tts/",
+  "privacyPolicyUrl": "https://www.uranbekanarbaev.dev/claude-tts/privacy/",
+  "termsOfServiceUrl": "https://www.uranbekanarbaev.dev/claude-tts/terms/",
+  "supportUrl": "https://www.uranbekanarbaev.dev/claude-tts/support/",
+  "keywords": ["Chinese text to speech", "Mandarin text to speech", "Chinese TTS", "text to MP3", "Chinese pronunciation"],
+  "icon": "./.claude-plugin/icon.png"
+}
